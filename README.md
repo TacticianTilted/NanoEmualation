@@ -22,59 +22,31 @@ Emulation on Nvidia Jetson Nano
   <tr>
     <td>RPI</td>
     <td>supported</td>
-    <td>supported</td>
-    <td>supported</td>
-    <td>supported</td>
-    <td>supported</td>
     <td></td>
   </tr>
   <tr>
     <td>RPI2</td>
     <td>3.18+ supported</td>
-    <td>supported</td>
-    <td>supported</td>
-    <td>supported</td>
-    <td>supported</td>
   </tr>
   <tr>
     <td>RPI3</td>
     <td>unsupported</td>
-    <td>4.1+ supported</td>
-    <td>supported</td>
-    <td>supported</td>
-    <td>supported</td>
   </tr>
   <tr>
     <td>RPI3A/B+</td>
     <td>unsupported</td>
-    <td>unsupported</td>
-    <td>4.14+ supported</td>
-    <td>supported</td>
-    <td>supported</td>
   </tr>
   <tr>
     <td>RPI4</td>
     <td>unsupported</td>
-    <td>unsupported</td>
-    <td>unsupported</td>
-    <td>4.19+ supported</td>
-    <td>supported</td>
   </tr>
 <tr>
     <td>RPI0</td>
     <td>unsupported</td>
-    <td>4.9+ supported</td>
-    <td>supported</td>
-    <td>supported</td>
-    <td>supported</td>
   </tr>
   <tr>
     <td>RPI0 2W</td>
     <td>unsupported</td>
-    <td>unsupported</td>
-    <td>unsupported</td>
-    <td>5.10.17+ supported</td>
-    <td>supported</td>
   </tr>
 </table>
 

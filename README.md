@@ -5,10 +5,10 @@ Emulation on Nvidia Jetson Nano
 <html>
 <body>
 
-<h1 class="center" style="color:blue;"> Raspberry Pi OSES</h1>
-<p class="center" style="color:red;">What Oses you can install on your Raspberry Pi</p>
+<h2 class="center" style="color:blue;"> GCN/Wii Emulation (Dolphin Emulator)</h1>
 
-<img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" alt="raspberrypilogo" style="width:100px;height:100px;" class="center">
+<img src="![image](https://user-images.githubusercontent.com/93889717/158726820-a2eb4526-d03e-4afe-a9ba-28c59da225ae.png)
+" alt="Dolphin Emulator" style="width:100px;height:100px;" class="center">
 
 <table style="width:100%">
   <tr>

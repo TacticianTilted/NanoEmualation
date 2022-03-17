@@ -1,4 +1,4 @@
-# NanoEmualation
+# Nano Emualation
 Emulation on Nvidia Jetson Nano
 
 <!DOCTYPE html>

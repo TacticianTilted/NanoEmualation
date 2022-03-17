@@ -11,13 +11,12 @@ Emulation on Nvidia Jetson Nano
 
 <table style="width:100%">
   <tr>
-    <th>Raspberry Pi OS Versions 32bit</th>
-    <th> Game Title</th>
+    <th>Game Title</th>
+    <th> Playble</th>
 </th>
   </tr>
   <tr>
-    <td>RPI</td>
-    <td>supported</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>

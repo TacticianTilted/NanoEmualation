@@ -20,28 +20,28 @@ Emulation on Nvidia Jetson Nano
     <td></td>
   </tr>
   <tr>
-    <td>RPI2</td>
-    <td>3.18+ supported</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>RPI3</td>
-    <td>unsupported</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>RPI3A/B+</td>
-    <td>unsupported</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>RPI4</td>
-    <td>unsupported</td>
+    <td></td>
+    <td></td>
   </tr>
 <tr>
-    <td>RPI0</td>
-    <td>unsupported</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>RPI0 2W</td>
-    <td>unsupported</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 

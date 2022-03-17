@@ -7,8 +7,7 @@ Emulation on Nvidia Jetson Nano
 
 <h2 class="center" style="color:blue;"> GCN/Wii Emulation (Dolphin Emulator)</h1>
 
-<img src="![image](https://user-images.githubusercontent.com/93889717/158726820-a2eb4526-d03e-4afe-a9ba-28c59da225ae.png)
-" alt="Dolphin Emulator" style="width:100px;height:100px;" class="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Dolphin-logo.svg" alt="Dolphin Emulator" style="width:100px;height:100px;" class="center">
 
 <table style="width:100%">
   <tr>

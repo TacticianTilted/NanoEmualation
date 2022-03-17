@@ -12,7 +12,7 @@ Emulation on Nvidia Jetson Nano
 <table style="width:100%">
   <tr>
     <th>Raspberry Pi OS Versions 32bit</th>
-    <th> <a href="https://downloads.raspberrypi.org/raspbian/images/raspbian-2015-05-07/2015-05-05-raspbian-wheezy.zip">Wheezy</a> </th>
+    <th> Game Title</th>
 </th>
   </tr>
   <tr>
